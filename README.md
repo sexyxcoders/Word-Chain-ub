@@ -20,3 +20,7 @@ This bot works with **Wordle clones or self-hosted games only**. Official NYT Wo
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+
+###Start Me Powered By Nexacoders
+```python3 bot.py```
