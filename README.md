@@ -23,4 +23,4 @@ pip install -r requirements.txt
 
 
 ###Start Me Powered By Nexacoders
-```python3 bot.py```
+python3 bot.py
